@@ -1,7 +1,7 @@
 body {
     font-family: 'Dancing Script', cursive;
     font-size: 40px;
-    background-color: #f2f2f2;
+    background-color: #facbdce7;
     color: #000000;
   }
   
@@ -10,7 +10,7 @@ header {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #fff;
+    background-color: #facbdc;
     padding: 20px;
   }
   
@@ -22,7 +22,7 @@ h1 {
 main {
     max-width: 80%;
     margin: 20px auto;
-    background-color: #eceaea;
+    background-color: #ffe8f1;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
